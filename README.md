@@ -1,6 +1,6 @@
 # Investment Assignment 2024 Part 2 in Python
 
-Hello dear grader! In order to use this script we need the following dependencies:
+Hello! In order to use this script we need the following dependencies:
 
 - pandas
 - numpy
